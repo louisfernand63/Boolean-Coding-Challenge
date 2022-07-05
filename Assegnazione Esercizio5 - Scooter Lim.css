@@ -1,0 +1,26 @@
+body { background-image: url(MaterialeEsercizioLim/background.jpg);
+  width: auto; background-size: cover; }
+
+.quadrocentrale { width: 1000px; height: auto; margin: auto; background-color: black; opacity: 60%; border-radius: 10px; }
+
+
+.logo { width: 200px; display: block; margin-left: auto; margin-right: auto; margin-top: auto; }
+#h2 { color: #14e914; text-align: center; margin-top: auto; }
+
+
+.prenotazione { background-color: #14e914 ; text-align: center; height: 40px; margin-left: 100px; margin-right: 100px; border-radius: 3px; }
+.prenota { margin-top: 10px; }
+
+.maine { margin-left: 100px; }
+
+.Gino22 { color: white }
+.progressGino22 { background-color: orange; height: 20px; border-radius: 3px;
+  width: 300px }
+
+.Mike24 { color: white }
+.progressMike24 { background-color: green; height: 20px; border-radius: 3px;
+    width: 500px }
+
+.Fede154 { color: white }
+.progressFede154 { background-color: red; height: 20px; border-radius: 3px;
+      width: 200px; }

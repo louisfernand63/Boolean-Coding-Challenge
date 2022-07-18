@@ -1,0 +1,45 @@
+body { background-color: lightgrey }
+
+.grisblanc {background-color: ; width: 1000px; height: 800px; position: relative; left: 200px; text-align: center; }
+
+/* immage1 */
+.image_pd1 { width: 300px; height: 372px; position: relative; display: inline-block; }
+.reduction_1 { background-color: green; width: 38px; height:
+  15px; position: absolute; top: 0; right: 0; }
+.cuore1 { position: absolute; bottom: 0 ; right: 150px; color: red; display: none; }
+.image_pd1:hover .cuore1 { display: block; }
+
+/* immage2 */
+.image_pd2 { width: 300px; height: 372px; position: relative; display: inline-block; }
+.reduction_2 { background-color: red; width: 30px; height:
+  15px; position: absolute; top: 0; right: 0; }
+.cuore2 { position: absolute; bottom: 0 ; right: 150px; color: red; display: none; }
+.image_pd2:hover .cuore2 { display: block; }
+
+/* immage3 */
+.image_pd3 { width: 300px; height: 372px; position: relative; display: inline-block; }
+.reduction_3 { background-color: yellow; width: 38px; height:
+  15px; position: absolute; top: 0; right: 0; }
+.cuore3 { position: absolute; bottom: 0 ; right: 150px; color: red; display: none; }
+.image_pd3:hover .cuore3 { display: block; }
+
+/* immage4 */
+.image_pd4 { width: 300px; height: 372px; position: relative; display: inline-block;  }
+.reduction_4 { background-color: blue; width: 38px; height:
+  15px; position: absolute; top: 0; right: 0; }
+.cuore4 { position: absolute; bottom: 0 ; right: 150px; color: red; display: none; }
+.image_pd4:hover .cuore4 { display: block; }
+
+/* immage5 */
+.image_pd5 { width: 300px; height: 372px; position: relative; display: inline-block; }
+.reduction_5 { background-color: violet; width: 30px; height:
+  15px; position: absolute; top: 0; right: 0; }
+.cuore5 { position: absolute; bottom: 0 ; right: 150px; color: red; display: none; }
+.image_pd5:hover .cuore5 { display: block; }
+
+/* immage6 */
+.image_pd6 { width: 300px; height: 372px; position: relative; display: inline-block; }
+.reduction_6 { background-color: orange; width: 38px; height:
+  15px; position: absolute; top: 0; right: 0; }
+.cuore6 { position: absolute; bottom: 0 ; right: 150px; color: red; display: none; }
+.image_pd6:hover .cuore6 { display: block; }
